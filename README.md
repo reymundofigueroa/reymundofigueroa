@@ -2,35 +2,35 @@
 
 ![Portada Reymundo](./Portada-Reymundo.png)
 
-### Sobre Mí
-Estoy en el último semestre de la carrera de Ingeniería en Sistemas, con un gran interés en el desarrollo front-end. Me apasiona crear interfaces de usuario atractivas y funcionales, y siempre estoy buscando aprender y mejorar mis habilidades.
+### About Me
+I am in the final semester of my Systems Engineering degree, with a strong interest in front-end development. I am passionate about creating attractive and functional user interfaces, and I am always looking to learn and improve my skills.
 
-### Habilidades Técnicas
-- **Lenguajes**: HTML, CSS, JavaScript
-- **Preprocesadores**: SASS
-- **Herramientas**: NPM, GIT, GitHub
+### Technical Skills
+- **Languages**: HTML, CSS, JavaScript
+- **Preprocessors**: SASS
+- **Tools**: NPM, GIT, GitHub
 
-### Objetivos Profesionales
-Mi objetivo a corto plazo es obtener una posición como desarrollador front-end en una empresa innovadora donde pueda aplicar y expandir mis habilidades. A largo plazo, aspiro a convertirme en un experto en accesibilidad web y contribuir a la creación de experiencias digitales inclusivas.
+### Professional Goals
+My short-term goal is to secure a position as a front-end developer in an innovative company where I can apply and expand my skills. In the long term, I aspire to become an expert in web accessibility and contribute to creating inclusive digital experiences.
 
-### Proyectos Destacados
-- [Cenaduría Sara y Nando](https://github.com/reymundofigueroa/Cenaduria-Sara-y-Nando): Landing page para el restaurante "Cenaduría Sara y Nando".
-- [Eco-Store](https://reymundofigueroa.github.io/Eco-store/): Landing page de una tienda de productos ecológicos .
+### Featured Projects
+- [Cenaduría Sara y Nando](https://github.com/reymundofigueroa/Cenaduria-Sara-y-Nando): Landing page for the restaurant "Cenaduría Sara y Nando".
+- [Eco-Store](https://reymundofigueroa.github.io/Eco-store/): Landing page for an organic products store.
 
-### Educación y Certificaciones
-- **Ingeniería en Sistemas**: Universidad UCAD (Último semestre)
-- **Certificaciones**: Escuela HTML y CSS desde cero, Escuela Fundamentos de JavaScript en Platzi
+### Education and Certifications
+- **Systems Engineering**: Universidad UCAD (Final semester)
+- **Certifications**: HTML y CSS desde cero School, Frontend Developer Course at Platzi
 
-### Intereses Personales
-Además de mi pasión por la tecnología, tengo un profundo interés en las matemáticas, física, filosofía y psicología. Disfruto mucho escribir poemas e historias cortas, y he tenido la oportunidad de publicar un libro infantil.
+### Personal Interests
+In addition to my passion for technology, I have a deep interest in mathematics, physics, philosophy, and psychology. I enjoy writing poems and short stories, and I have had the opportunity to publish a children's book. [Visita a Pueblo Cambiado](https://a.co/d/4aoJ1NL)
 
-### Aprendizaje en Comunidad
-Me encanta aprender en comunidad y creo firmemente en el poder de la colaboración. Siento que tengo muy buenas habilidades blandas, lo que me permite comunicarme y trabajar eficazmente con otros.
+### Learning in Community
+I love learning in a community and firmly believe in the power of collaboration. I feel that I have excellent soft skills, which allow me to communicate and work effectively with others.
 
-### Enlaces
+### Links
 - [LinkedIn](https://www.linkedin.com/in/reymundo-fernando-figueroa-romo-35000b274/)
 - [Facebook](https://www.facebook.com/reymundo.figueroa.3/)
-- [Correo Electrónico](reymundo_124@hotmail.com)
+- [Email](reymundo_124@hotmail.com)
 
 ---
 <!--
